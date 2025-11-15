@@ -1,0 +1,9 @@
+{
+  "name": "tienda-flask-template",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "python app.py"
+  },
+  "dependencies": {}
+}
